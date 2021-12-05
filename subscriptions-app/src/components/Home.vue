@@ -2,7 +2,7 @@
 
   <div class="List">
     <div class="row justify-content-center">
-        <div class="col-md-5">
+        <div class="col-md-8">
             <h3 class="text-center">Subscriptions</h3>
               <table class="table align-middle">
                 <thead>
